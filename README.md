@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 <p/>💬 My name is Can. I'm intresting with web site and developing. I'm a front-end web development for 4 years. I started learning languages 4 years ago.
 
 <p/>Here are the languages i know:
-<em/><b/><br/>HTML5,CSS3,Js,PhP,NodeJs,Python,C and C++.
+<em><b/><br/>HTML5,CSS3,Js,PhP,NodeJs,Python,C and C++.</em></b>
 <p> Now im learning C# and Java for to be a full stack developer.</p>
 <p/>I'm always improve myself for to be a Computer Engineer.
 <p/> That's all for now :), take care goodbye !
