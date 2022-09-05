@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 -->
 <img src="https://media1.giphy.com/media/888R35MJTmDxQfRzfS/200w.gif?cid=82a1493b5h4d1uguralknbl4atxpdyhvgid76ofc8mp75v28&rid=200w.gif&ct=g" width=300px height="300px">
 👋 Hello guys ! 
-💬 My name is Can. I'm intresting with web site and developing. 
+💬 My name is Can. I'm intresting with web site and developing. I'm a front-end web development for 4 years. I started learning languages 4 years ago.
 <p/>Here are the languages i know:
 <br/>HTML5,CSS3,Js,PhP,NodeJs,Python,C and C++.
 <p> Now im learning C# and Java for to be a full stack developer.</p>
