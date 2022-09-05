@@ -16,4 +16,4 @@ Here are some ideas to get you started:
 👋 Hello guys ! 
 💬 My name is Can. I'm intresting with web site and developing. Here are the languages i know:
 HTML5,CSS3,Js,PhP,NodeJs,Python,C and C++.
-Now im learning C#.
+<p> Now im learning C#.</p>
