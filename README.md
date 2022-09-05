@@ -1,5 +1,3 @@
-### Hi there 👋
-
 <!--
 **deepeffect/deepeffect** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -15,7 +13,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 <img src="https://media1.giphy.com/media/888R35MJTmDxQfRzfS/200w.gif?cid=82a1493b5h4d1uguralknbl4atxpdyhvgid76ofc8mp75v28&rid=200w.gif&ct=g" width=300px height="300px">
-💬 Hello guys ! 
-My name is Can. I'm intresting with web site and developing. Here are the languages i know:
+👋 Hello guys ! 
+💬 My name is Can. I'm intresting with web site and developing. Here are the languages i know:
 HTML5,CSS3,Js,PhP,NodeJs,Python,C and C++.
 Now im learning C#.
