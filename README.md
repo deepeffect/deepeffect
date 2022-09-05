@@ -20,5 +20,5 @@ Here are some ideas to get you started:
 <em/><b/><br/>HTML5,CSS3,Js,PhP,NodeJs,Python,C and C++.
 <p> Now im learning C# and Java for to be a full stack developer.</p>
 <p/>I'm always improve myself for to be a Computer Engineer.
-<p/> That's all for now :), take care good bye !
-<imc src="https://media0.giphy.com/media/VgC5dVK3KzQCm1TdPI/200w.gif?cid=82a1493bdbl7g2rtbfvbbj55kn6xuvkkfhp0ohpbumhznjhi&rid=200w.gif&ct=g" width="200px" height="200px">
+<p/> That's all for now :), take care goodbye !
+<imc src="https://media0.giphy.com/media/VgC5dVK3KzQCm1TdPI/200w.gif?cid=82a1493bdbl7g2rtbfvbbj55kn6xuvkkfhp0ohpbumhznjhi&rid=200w.gif&ct=g" width=200px height=200px>
